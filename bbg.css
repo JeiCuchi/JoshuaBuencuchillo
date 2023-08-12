@@ -1,0 +1,19 @@
+body{
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #efefef;
+  background: url(jff.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+#game{
+  background-color: #ca5e5e;
+  background: url(jff.jpg);
+  background-size: cover;
+  background-position: center;
+  margin-top: 10rem;
+  border: 2px solid #7e0404;
+}
